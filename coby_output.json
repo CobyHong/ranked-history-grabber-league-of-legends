@@ -1,0 +1,1740 @@
+{
+    "players": {
+        "Abovezero357": {
+            "current_rank": {
+                "lp": 61,
+                "rank": "GOLD",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 3,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 61,
+                    "rank": "GOLD",
+                    "tier": 4
+                }
+            ]
+        },
+        "Axis of Darkness": {
+            "current_rank": {
+                "lp": 60,
+                "rank": "GOLD",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 3.125,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 5
+                },
+                {
+                    "lp": 82,
+                    "rank": "GOLD",
+                    "tier": 2
+                },
+                {
+                    "lp": 34,
+                    "rank": "GOLD",
+                    "tier": 3
+                },
+                {
+                    "lp": 60,
+                    "rank": "GOLD",
+                    "tier": 4
+                }
+            ]
+        },
+        "Boblob": {
+            "current_rank": {
+                "lp": 46,
+                "rank": "GOLD",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 3,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 46,
+                    "rank": "GOLD",
+                    "tier": 4
+                }
+            ]
+        },
+        "Botswana": {
+            "current_rank": {
+                "lp": 40,
+                "rank": "PLATINUM",
+                "tier": 3
+            },
+            "rank_score": {
+                "score": 4.25,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 3
+                },
+                {
+                    "lp": 40,
+                    "rank": "PLATINUM",
+                    "tier": 3
+                }
+            ]
+        },
+        "Budgiekraz": {
+            "current_rank": {
+                "lp": 38,
+                "rank": "GOLD",
+                "tier": 2
+            },
+            "rank_score": {
+                "score": 3.5,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 40,
+                    "rank": "SILVER",
+                    "tier": 3
+                },
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 2
+                },
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 1
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 37,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 38,
+                    "rank": "GOLD",
+                    "tier": 2
+                }
+            ]
+        },
+        "ClancrusherDRS": {
+            "current_rank": {
+                "lp": 87,
+                "rank": "SILVER",
+                "tier": 2
+            },
+            "rank_score": {
+                "score": 2.5,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 87,
+                    "rank": "SILVER",
+                    "tier": 2
+                }
+            ]
+        },
+        "ComedicToast": {
+            "current_rank": {
+                "lp": 8,
+                "rank": "PLATINUM",
+                "tier": 3
+            },
+            "rank_score": {
+                "score": 4.25,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 62,
+                    "rank": "SILVER",
+                    "tier": 3
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 3
+                },
+                {
+                    "lp": 8,
+                    "rank": "PLATINUM",
+                    "tier": 3
+                }
+            ]
+        },
+        "Cuby": {
+            "current_rank": {
+                "lp": 100,
+                "rank": "SILVER",
+                "tier": 2
+            },
+            "rank_score": {
+                "score": 3.125,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 3
+                },
+                {
+                    "lp": 43,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 64,
+                    "rank": "PLATINUM",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 100,
+                    "rank": "SILVER",
+                    "tier": 2
+                }
+            ]
+        },
+        "ELIGMApp": {
+            "current_rank": {
+                "lp": 0,
+                "rank": "GOLD",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 3,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 4
+                }
+            ]
+        },
+        "FACECHECKSKARNER": {
+            "current_rank": {
+                "lp": 34,
+                "rank": "DIAMOND",
+                "tier": 2
+            },
+            "rank_score": {
+                "score": 5.5,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 34,
+                    "rank": "DIAMOND",
+                    "tier": 2
+                }
+            ]
+        },
+        "FilthyOgre": {
+            "current_rank": {
+                "lp": 0,
+                "rank": "PLATINUM",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 4,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 3
+                },
+                {
+                    "lp": 21,
+                    "rank": "SILVER",
+                    "tier": 4
+                },
+                {
+                    "lp": 84,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 55,
+                    "rank": "GOLD",
+                    "tier": 1
+                },
+                {
+                    "lp": 38,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 45,
+                    "rank": "GOLD",
+                    "tier": 2
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                }
+            ]
+        },
+        "Fiora Simp": {
+            "current_rank": {
+                "lp": 0,
+                "rank": "PLATINUM",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 4,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 23,
+                    "rank": "BRONZE",
+                    "tier": 2
+                },
+                {
+                    "lp": 19,
+                    "rank": "SILVER",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 59,
+                    "rank": "SILVER",
+                    "tier": 2
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                }
+            ]
+        },
+        "Freuclid": {
+            "current_rank": {
+                "lp": 1,
+                "rank": "DIAMOND",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 5.0,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 38,
+                    "rank": "PLATINUM",
+                    "tier": 2
+                },
+                {
+                    "lp": 0,
+                    "rank": "DIAMOND",
+                    "tier": 3
+                },
+                {
+                    "lp": 68,
+                    "rank": "DIAMOND",
+                    "tier": 4
+                },
+                {
+                    "lp": 1,
+                    "rank": "DIAMOND",
+                    "tier": 4
+                }
+            ]
+        },
+        "FuzzyHamster": {
+            "current_rank": {
+                "lp": 0,
+                "rank": "PLATINUM",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 4,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 2
+                },
+                {
+                    "lp": 74,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 90,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 28,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 61,
+                    "rank": "GOLD",
+                    "tier": 2
+                },
+                {
+                    "lp": 40,
+                    "rank": "PLATINUM",
+                    "tier": 2
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                }
+            ]
+        },
+        "GhoulFreak": {
+            "current_rank": {
+                "lp": 60,
+                "rank": "GOLD",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 3,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 3
+                },
+                {
+                    "lp": 54,
+                    "rank": "SILVER",
+                    "tier": 1
+                },
+                {
+                    "lp": 60,
+                    "rank": "GOLD",
+                    "tier": 4
+                }
+            ]
+        },
+        "IS1d1af5a97647deb4b13c7": {
+            "current_rank": {
+                "lp": 24,
+                "rank": "GOLD",
+                "tier": 1
+            },
+            "rank_score": {
+                "score": 3.75,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 24,
+                    "rank": "GOLD",
+                    "tier": 1
+                }
+            ]
+        },
+        "Ibei": {
+            "current_rank": {
+                "lp": 26,
+                "rank": "PLATINUM",
+                "tier": 3
+            },
+            "rank_score": {
+                "score": 4.25,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 11,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 5
+                },
+                {
+                    "lp": 61,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 51,
+                    "rank": "PLATINUM",
+                    "tier": 2
+                },
+                {
+                    "lp": 41,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 26,
+                    "rank": "PLATINUM",
+                    "tier": 3
+                }
+            ]
+        },
+        "ImHellaToxic": {
+            "current_rank": {
+                "lp": 35,
+                "rank": "SILVER",
+                "tier": 3
+            },
+            "rank_score": {
+                "score": 2.25,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 5
+                },
+                {
+                    "lp": 100,
+                    "rank": "SILVER",
+                    "tier": 2
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 3
+                },
+                {
+                    "lp": 35,
+                    "rank": "SILVER",
+                    "tier": 3
+                }
+            ]
+        },
+        "JeungleDif": {
+            "current_rank": {
+                "lp": 28,
+                "rank": "GOLD",
+                "tier": 3
+            },
+            "rank_score": {
+                "score": 3.25,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 25,
+                    "rank": "SILVER",
+                    "tier": 2
+                },
+                {
+                    "lp": 28,
+                    "rank": "GOLD",
+                    "tier": 3
+                }
+            ]
+        },
+        "Koalascope": {
+            "current_rank": {
+                "lp": 75,
+                "rank": "PLATINUM",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 4,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 11,
+                    "rank": "SILVER",
+                    "tier": 3
+                },
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 2
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 75,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                }
+            ]
+        },
+        "LionwingsX": {
+            "current_rank": {
+                "lp": 13,
+                "rank": "PLATINUM",
+                "tier": 3
+            },
+            "rank_score": {
+                "score": 4.25,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 2
+                },
+                {
+                    "lp": 35,
+                    "rank": "GOLD",
+                    "tier": 3
+                },
+                {
+                    "lp": 74,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 58,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 13,
+                    "rank": "PLATINUM",
+                    "tier": 3
+                }
+            ]
+        },
+        "Lowest": {
+            "current_rank": {
+                "lp": 1,
+                "rank": "MASTER",
+                "tier": 0
+            },
+            "rank_score": {
+                "score": 6,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 100,
+                    "rank": "BRONZE",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 5
+                },
+                {
+                    "lp": 15,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 50,
+                    "rank": "SILVER",
+                    "tier": 3
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 3
+                },
+                {
+                    "lp": 30,
+                    "rank": "GOLD",
+                    "tier": 1
+                },
+                {
+                    "lp": 1,
+                    "rank": "MASTER",
+                    "tier": 0
+                }
+            ]
+        },
+        "MustardPata": {
+            "current_rank": {
+                "lp": 1,
+                "rank": "GOLD",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 3,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 23,
+                    "rank": "SILVER",
+                    "tier": 4
+                },
+                {
+                    "lp": 20,
+                    "rank": "SILVER",
+                    "tier": 2
+                },
+                {
+                    "lp": 1,
+                    "rank": "GOLD",
+                    "tier": 4
+                }
+            ]
+        },
+        "Mysterious029": {
+            "current_rank": {
+                "lp": 59,
+                "rank": "PLATINUM",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 4,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 24,
+                    "rank": "SILVER",
+                    "tier": 5
+                },
+                {
+                    "lp": 76,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 47,
+                    "rank": "GOLD",
+                    "tier": 3
+                },
+                {
+                    "lp": 68,
+                    "rank": "PLATINUM",
+                    "tier": 2
+                },
+                {
+                    "lp": 42,
+                    "rank": "PLATINUM",
+                    "tier": 3
+                },
+                {
+                    "lp": 59,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                }
+            ]
+        },
+        "Paekdu San": {
+            "current_rank": {
+                "lp": 62,
+                "rank": "PLATINUM",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 4,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 2
+                },
+                {
+                    "lp": 72,
+                    "rank": "GOLD",
+                    "tier": 3
+                },
+                {
+                    "lp": 65,
+                    "rank": "PLATINUM",
+                    "tier": 3
+                },
+                {
+                    "lp": 62,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                }
+            ]
+        },
+        "Percival Pancake": {
+            "current_rank": {
+                "lp": 24,
+                "rank": "PLATINUM",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 4.0,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "DIAMOND",
+                    "tier": 5
+                },
+                {
+                    "lp": 14,
+                    "rank": "PLATINUM",
+                    "tier": 5
+                },
+                {
+                    "lp": 58,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 30,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 96,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 24,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                }
+            ]
+        },
+        "PokGaiWeeWee": {
+            "current_rank": {
+                "lp": 7,
+                "rank": "DIAMOND",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 5,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 23,
+                    "rank": "PLATINUM",
+                    "tier": 3
+                },
+                {
+                    "lp": 98,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 68,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 46,
+                    "rank": "GOLD",
+                    "tier": 1
+                },
+                {
+                    "lp": 29,
+                    "rank": "PLATINUM",
+                    "tier": 2
+                },
+                {
+                    "lp": 0,
+                    "rank": "DIAMOND",
+                    "tier": 4
+                },
+                {
+                    "lp": 7,
+                    "rank": "DIAMOND",
+                    "tier": 4
+                }
+            ]
+        },
+        "Quanzek": {
+            "current_rank": {
+                "lp": 90,
+                "rank": "BRONZE",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 1,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 90,
+                    "rank": "BRONZE",
+                    "tier": 4
+                }
+            ]
+        },
+        "Raycovel": {
+            "current_rank": {
+                "lp": 56,
+                "rank": "PLATINUM",
+                "tier": 2
+            },
+            "rank_score": {
+                "score": 4.5,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 2
+                },
+                {
+                    "lp": 46,
+                    "rank": "GOLD",
+                    "tier": 1
+                },
+                {
+                    "lp": 56,
+                    "rank": "PLATINUM",
+                    "tier": 2
+                }
+            ]
+        },
+        "Sahanaye": {
+            "current_rank": {
+                "lp": 9,
+                "rank": "GOLD",
+                "tier": 3
+            },
+            "rank_score": {
+                "score": 3.25,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "BRONZE",
+                    "tier": 3
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 49,
+                    "rank": "SILVER",
+                    "tier": 3
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 1
+                },
+                {
+                    "lp": 6,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 9,
+                    "rank": "GOLD",
+                    "tier": 3
+                }
+            ]
+        },
+        "Simpmill": {
+            "current_rank": {
+                "lp": 8,
+                "rank": "PLATINUM",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 4.0,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 85,
+                    "rank": "SILVER",
+                    "tier": 5
+                },
+                {
+                    "lp": 35,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 8,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                }
+            ]
+        },
+        "Small Fluffy Cat": {
+            "current_rank": {
+                "lp": 1,
+                "rank": "MASTER",
+                "tier": 0
+            },
+            "rank_score": {
+                "score": 6,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 1
+                },
+                {
+                    "lp": 29,
+                    "rank": "GOLD",
+                    "tier": 1
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 3
+                },
+                {
+                    "lp": 4,
+                    "rank": "DIAMOND",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "DIAMOND",
+                    "tier": 1
+                },
+                {
+                    "lp": 1,
+                    "rank": "MASTER",
+                    "tier": 0
+                }
+            ]
+        },
+        "Smooth Caramel": {
+            "current_rank": {
+                "lp": 32,
+                "rank": "GOLD",
+                "tier": 1
+            },
+            "rank_score": {
+                "score": 3.75,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "BRONZE",
+                    "tier": 3
+                },
+                {
+                    "lp": 53,
+                    "rank": "BRONZE",
+                    "tier": 3
+                },
+                {
+                    "lp": 100,
+                    "rank": "SILVER",
+                    "tier": 4
+                },
+                {
+                    "lp": 100,
+                    "rank": "SILVER",
+                    "tier": 2
+                },
+                {
+                    "lp": 29,
+                    "rank": "GOLD",
+                    "tier": 2
+                },
+                {
+                    "lp": 32,
+                    "rank": "GOLD",
+                    "tier": 1
+                }
+            ]
+        },
+        "StingingChicken": {
+            "current_rank": {
+                "lp": 62,
+                "rank": "SILVER",
+                "tier": 3
+            },
+            "rank_score": {
+                "score": 2.25,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 16,
+                    "rank": "BRONZE",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "BRONZE",
+                    "tier": 4
+                },
+                {
+                    "lp": 10,
+                    "rank": "BRONZE",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "IRON",
+                    "tier": 2
+                },
+                {
+                    "lp": 0,
+                    "rank": "IRON",
+                    "tier": 1
+                },
+                {
+                    "lp": 62,
+                    "rank": "SILVER",
+                    "tier": 3
+                }
+            ]
+        },
+        "T1 Teddy Fanboyy": {
+            "current_rank": {
+                "lp": 0,
+                "rank": "GOLD",
+                "tier": 3
+            },
+            "rank_score": {
+                "score": 3.25,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 50,
+                    "rank": "SILVER",
+                    "tier": 4
+                },
+                {
+                    "lp": 58,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 9,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 3
+                }
+            ]
+        },
+        "TeggyWeggy": {
+            "current_rank": {
+                "lp": 37,
+                "rank": "GOLD",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 3.0,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 58,
+                    "rank": "SILVER",
+                    "tier": 2
+                },
+                {
+                    "lp": 73,
+                    "rank": "SILVER",
+                    "tier": 1
+                },
+                {
+                    "lp": 4,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 5,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 57,
+                    "rank": "GOLD",
+                    "tier": 3
+                },
+                {
+                    "lp": 37,
+                    "rank": "GOLD",
+                    "tier": 4
+                }
+            ]
+        },
+        "WinsalowJP": {
+            "current_rank": {
+                "lp": 11,
+                "rank": "SILVER",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 2,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 4
+                },
+                {
+                    "lp": 46,
+                    "rank": "SILVER",
+                    "tier": 4
+                },
+                {
+                    "lp": 11,
+                    "rank": "SILVER",
+                    "tier": 4
+                }
+            ]
+        },
+        "Yolkie": {
+            "current_rank": {
+                "lp": 58,
+                "rank": "GOLD",
+                "tier": 1
+            },
+            "rank_score": {
+                "score": 3.75,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 2
+                },
+                {
+                    "lp": 38,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 38,
+                    "rank": "PLATINUM",
+                    "tier": 2
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 1
+                },
+                {
+                    "lp": 40,
+                    "rank": "PLATINUM",
+                    "tier": 3
+                },
+                {
+                    "lp": 69,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 65,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 58,
+                    "rank": "GOLD",
+                    "tier": 1
+                }
+            ]
+        },
+        "blazingspacepup": {
+            "current_rank": {
+                "lp": 0,
+                "rank": "DIAMOND",
+                "tier": 3
+            },
+            "rank_score": {
+                "score": 5.25,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 24,
+                    "rank": "SILVER",
+                    "tier": 4
+                },
+                {
+                    "lp": 90,
+                    "rank": "BRONZE",
+                    "tier": 1
+                },
+                {
+                    "lp": 29,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "DIAMOND",
+                    "tier": 3
+                }
+            ]
+        },
+        "chillax101": {
+            "current_rank": {
+                "lp": 74,
+                "rank": "GOLD",
+                "tier": 3
+            },
+            "rank_score": {
+                "score": 3.25,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 26,
+                    "rank": "SILVER",
+                    "tier": 5
+                },
+                {
+                    "lp": 75,
+                    "rank": "GOLD",
+                    "tier": 3
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 74,
+                    "rank": "GOLD",
+                    "tier": 3
+                }
+            ]
+        },
+        "dongjin1": {
+            "current_rank": {
+                "lp": 57,
+                "rank": "GOLD",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 3,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 100,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 63,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 57,
+                    "rank": "GOLD",
+                    "tier": 4
+                }
+            ]
+        },
+        "eunoi\u00e5": {
+            "current_rank": {
+                "lp": 90,
+                "rank": "SILVER",
+                "tier": 2
+            },
+            "rank_score": {
+                "score": 2.5,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 90,
+                    "rank": "SILVER",
+                    "tier": 2
+                }
+            ]
+        },
+        "ily btw": {
+            "current_rank": {
+                "lp": 33,
+                "rank": "SILVER",
+                "tier": 1
+            },
+            "rank_score": {
+                "score": 3.125,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 77,
+                    "rank": "GOLD",
+                    "tier": 4
+                },
+                {
+                    "lp": 95,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                },
+                {
+                    "lp": 77,
+                    "rank": "GOLD",
+                    "tier": 3
+                },
+                {
+                    "lp": 33,
+                    "rank": "SILVER",
+                    "tier": 1
+                }
+            ]
+        },
+        "kyuuri": {
+            "current_rank": {
+                "lp": 60,
+                "rank": "PLATINUM",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 4,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 22,
+                    "rank": "BRONZE",
+                    "tier": 3
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 2
+                },
+                {
+                    "lp": 75,
+                    "rank": "GOLD",
+                    "tier": 3
+                },
+                {
+                    "lp": 60,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                }
+            ]
+        },
+        "shishinik": {
+            "current_rank": {
+                "lp": 209,
+                "rank": "MASTER",
+                "tier": 0
+            },
+            "rank_score": {
+                "score": 6,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "DIAMOND",
+                    "tier": 5
+                },
+                {
+                    "lp": 20,
+                    "rank": "DIAMOND",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "DIAMOND",
+                    "tier": 2
+                },
+                {
+                    "lp": 41,
+                    "rank": "DIAMOND",
+                    "tier": 2
+                },
+                {
+                    "lp": 209,
+                    "rank": "MASTER",
+                    "tier": 0
+                }
+            ]
+        },
+        "snakelovingperso": {
+            "current_rank": {
+                "lp": 34,
+                "rank": "BRONZE",
+                "tier": 1
+            },
+            "rank_score": {
+                "score": 1.75,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 100,
+                    "rank": "BRONZE",
+                    "tier": 4
+                },
+                {
+                    "lp": 34,
+                    "rank": "BRONZE",
+                    "tier": 1
+                }
+            ]
+        },
+        "ssunsurfer": {
+            "current_rank": {
+                "lp": 100,
+                "rank": "BRONZE",
+                "tier": 1
+            },
+            "rank_score": {
+                "score": 1.75,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 100,
+                    "rank": "BRONZE",
+                    "tier": 1
+                }
+            ]
+        },
+        "therhyn0": {
+            "current_rank": {
+                "lp": 57,
+                "rank": "PLATINUM",
+                "tier": 1
+            },
+            "rank_score": {
+                "score": 4.75,
+                "scoring_basis": "median rank"
+            },
+            "ranks": [
+                {
+                    "lp": 100,
+                    "rank": "SILVER",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 1
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 5
+                },
+                {
+                    "lp": 82,
+                    "rank": "DIAMOND",
+                    "tier": 5
+                },
+                {
+                    "lp": 0,
+                    "rank": "DIAMOND",
+                    "tier": 3
+                },
+                {
+                    "lp": 0,
+                    "rank": "DIAMOND",
+                    "tier": 3
+                },
+                {
+                    "lp": 57,
+                    "rank": "PLATINUM",
+                    "tier": 1
+                }
+            ]
+        },
+        "xPyroniz": {
+            "current_rank": {
+                "lp": 0,
+                "rank": "PLATINUM",
+                "tier": 4
+            },
+            "rank_score": {
+                "score": 4,
+                "scoring_basis": "current rank"
+            },
+            "ranks": [
+                {
+                    "lp": 0,
+                    "rank": "SILVER",
+                    "tier": 4
+                },
+                {
+                    "lp": 0,
+                    "rank": "GOLD",
+                    "tier": 1
+                },
+                {
+                    "lp": 0,
+                    "rank": "PLATINUM",
+                    "tier": 4
+                }
+            ]
+        }
+    },
+    "total": {
+        "count": 49,
+        "median_score": 3.75
+    }
+}
